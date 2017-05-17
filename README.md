@@ -1,5 +1,7 @@
 # DockerCon 2017 Recap
 
+[gist](https://gist.github.com/so0k/4a4378eb76aea2217a219ec78b03acf5)
+
 ## Docker for Developers
 
 ### Docker Multi Stage builds
