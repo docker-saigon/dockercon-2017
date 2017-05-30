@@ -50,6 +50,8 @@ docker images |grep href-counter
 
 ## With Multi-stage builds
 
+Instead of using a shell script to orchestrate two separate Dockerfiles, we can just use one and define stages throughout.
+
 ```bash
 cat Dockerfile.multi
 ```
