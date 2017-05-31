@@ -97,4 +97,15 @@ Highlights:
 - Moby
 
 
+## Keynote links
+
+- [Multi Stage builds and Desktop to Cloud](https://youtu.be/hwkqju_BXEo?t=1654)
+
+## Notes
+
+- multi-stage builds: bash script was hacky and broke
+- desktop to cloud: giving a user access is as easy as using the docker cloud UI
+  (Created an org, add teams - set team permissions to clusters)
+- Note that the `Desktop To Cloud` feature configures your `DOCKER_HOST` to work
+  with the swarm in the cloud.
 
